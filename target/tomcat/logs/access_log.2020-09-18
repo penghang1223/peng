@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:21:04:21 +0800] "GET /myMavenWeb HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:21:04:22 +0800] "GET /myMavenWeb/ HTTP/1.1" 500 3951 http-bio-8080-exec-3 334
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:21:04:22 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:21:04:39 +0800] "GET /myMavenWeb/MyServlet HTTP/1.1" 500 3318 http-bio-8080-exec-4 7
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:22:16:28 +0800] "GET /myMavenWeb/MyServlet HTTP/1.1" 404 949 http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:22:17:44 +0800] "GET /myMavenWeb/MyServlet HTTP/1.1" 404 949 http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:22:17:46 +0800] "GET /myMavenWeb/MyServlet HTTP/1.1" 404 949 http-bio-8080-exec-9 1
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:22:18:01 +0800] "GET /myMavenWeb/MyServlet HTTP/1.1" 404 949 http-bio-8080-exec-9 1
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:22:18:02 +0800] "GET /myMavenWeb/MyServlet HTTP/1.1" 404 949 http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:22:18:03 +0800] "GET /myMavenWeb/MyServlet HTTP/1.1" 404 949 http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:22:19:15 +0800] "GET /myMavenWeb/MyServlet HTTP/1.1" 404 949 http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:22:27:09 +0800] "GET /myMavenWeb HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:22:27:09 +0800] "GET /myMavenWeb/ HTTP/1.1" 200 52 http-bio-8080-exec-3 23
+0:0:0:0:0:0:0:1 - - [18/Sep/2020:22:27:25 +0800] "GET /myMavenWeb/hello.jsp HTTP/1.1" 200 94 http-bio-8080-exec-4 324
